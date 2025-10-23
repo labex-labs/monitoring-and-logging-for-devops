@@ -17,21 +17,21 @@ Master the essentials of monitoring and logging in DevOps environments. This com
 
 ## Exercises
 
-|   Index | Name                         | Difficulty   | Practice                                                                                                  |
-|---------|------------------------------|--------------|-----------------------------------------------------------------------------------------------------------|
-|       1 | 📖  Prometheus Installation  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/docker-prometheus-installation-601811'>Start Lab</a>  |
-|       2 | 📖  Prometheus Configuration | Beginner     | <a target='_blank' href='https://labex.io/tutorials/docker-prometheus-configuration-601818'>Start Lab</a> |
-|       3 | 📖  Node Exporter Setup      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/docker-node-exporter-setup-601825'>Start Lab</a>      |
-|       4 | 📖  PromQL Basics            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/docker-promql-basics-601827'>Start Lab</a>            |
-|       5 | 📖  Grafana Installation     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/docker-grafana-installation-601822'>Start Lab</a>     |
-|       6 | 📖  Grafana Dashboards       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/docker-grafana-dashboards-601821'>Start Lab</a>       |
-|       7 | 📖  Loki Installation        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/docker-loki-installation-601824'>Start Lab</a>        |
-|       8 | 📖  Loki Configuration       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/docker-loki-configuration-601823'>Start Lab</a>       |
-|       9 | 📖  Prometheus Alerts        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/docker-prometheus-alerts-601826'>Start Lab</a>        |
+|   Index | Name                         | Difficulty   | Practice                                                                                                                                      |
+|---------|------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩  Prometheus Installation  | Beginner     | <a target='_blank' href='https://labex.io/labs/docker-prometheus-installation-601811?course=monitoring-and-logging-for-devops'>Start Lab</a>  |
+|       2 | 🧩  Prometheus Configuration | Beginner     | <a target='_blank' href='https://labex.io/labs/docker-prometheus-configuration-601818?course=monitoring-and-logging-for-devops'>Start Lab</a> |
+|       3 | 🧩  Node Exporter Setup      | Beginner     | <a target='_blank' href='https://labex.io/labs/docker-node-exporter-setup-601825?course=monitoring-and-logging-for-devops'>Start Lab</a>      |
+|       4 | 🧩  PromQL Basics            | Beginner     | <a target='_blank' href='https://labex.io/labs/docker-promql-basics-601827?course=monitoring-and-logging-for-devops'>Start Lab</a>            |
+|       5 | 🧩  Grafana Installation     | Beginner     | <a target='_blank' href='https://labex.io/labs/docker-grafana-installation-601822?course=monitoring-and-logging-for-devops'>Start Lab</a>     |
+|       6 | 🧩  Grafana Dashboards       | Beginner     | <a target='_blank' href='https://labex.io/labs/docker-grafana-dashboards-601821?course=monitoring-and-logging-for-devops'>Start Lab</a>       |
+|       7 | 🧩  Loki Installation        | Beginner     | <a target='_blank' href='https://labex.io/labs/docker-loki-installation-601824?course=monitoring-and-logging-for-devops'>Start Lab</a>        |
+|       8 | 🧩  Loki Configuration       | Beginner     | <a target='_blank' href='https://labex.io/labs/docker-loki-configuration-601823?course=monitoring-and-logging-for-devops'>Start Lab</a>       |
+|       9 | 🧩  Prometheus Alerts        | Beginner     | <a target='_blank' href='https://labex.io/labs/docker-prometheus-alerts-601826?course=monitoring-and-logging-for-devops'>Start Lab</a>        |
 
 ## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
+[LabEx](https://labex.io) is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the [Skill Tree](https://labex.io/learn) learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, [LabEx](https://labex.io) offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
