@@ -17,21 +17,21 @@ Domine os fundamentos de monitoramento e logging em ambientes DevOps. Este curso
 
 ## Exercícios
 
-|   Índice | Nome                              | Dificuldade   | Prática                                                                                                        |
-|----------|-----------------------------------|---------------|----------------------------------------------------------------------------------------------------------------|
-|        1 | 📖  Instalação do Prometheus      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/docker-prometheus-installation-601811'>Iniciar Lab</a>  |
-|        2 | 📖  Configuração do Prometheus    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/docker-prometheus-configuration-601818'>Iniciar Lab</a> |
-|        3 | 📖  Configuração do Node Exporter | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/docker-node-exporter-setup-601825'>Iniciar Lab</a>      |
-|        4 | 📖  Fundamentos do PromQL         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/docker-promql-basics-601827'>Iniciar Lab</a>            |
-|        5 | 📖  Instalação do Grafana         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/docker-grafana-installation-601822'>Iniciar Lab</a>     |
-|        6 | 📖  Painéis Grafana               | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/docker-grafana-dashboards-601821'>Iniciar Lab</a>       |
-|        7 | 📖  Instalação do Loki            | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/docker-loki-installation-601824'>Iniciar Lab</a>        |
-|        8 | 📖  Configuração do Loki          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/docker-loki-configuration-601823'>Iniciar Lab</a>       |
-|        9 | 📖  Alertas do Prometheus         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/docker-prometheus-alerts-601826'>Iniciar Lab</a>        |
+|   Índice | Nome                              | Dificuldade   | Prática                                                                                                                                            |
+|----------|-----------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩  Instalação do Prometheus      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/docker-prometheus-installation-601811?course=monitoring-and-logging-for-devops'>Iniciar Lab</a>  |
+|        2 | 🧩  Configuração do Prometheus    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/docker-prometheus-configuration-601818?course=monitoring-and-logging-for-devops'>Iniciar Lab</a> |
+|        3 | 🧩  Configuração do Node Exporter | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/docker-node-exporter-setup-601825?course=monitoring-and-logging-for-devops'>Iniciar Lab</a>      |
+|        4 | 🧩  Fundamentos do PromQL         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/docker-promql-basics-601827?course=monitoring-and-logging-for-devops'>Iniciar Lab</a>            |
+|        5 | 🧩  Instalação do Grafana         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/docker-grafana-installation-601822?course=monitoring-and-logging-for-devops'>Iniciar Lab</a>     |
+|        6 | 🧩  Painéis Grafana               | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/docker-grafana-dashboards-601821?course=monitoring-and-logging-for-devops'>Iniciar Lab</a>       |
+|        7 | 🧩  Instalação do Loki            | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/docker-loki-installation-601824?course=monitoring-and-logging-for-devops'>Iniciar Lab</a>        |
+|        8 | 🧩  Configuração do Loki          | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/docker-loki-configuration-601823?course=monitoring-and-logging-for-devops'>Iniciar Lab</a>       |
+|        9 | 🧩  Alertas do Prometheus         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/docker-prometheus-alerts-601826?course=monitoring-and-logging-for-devops'>Iniciar Lab</a>        |
 
 ## Sobre LabEx
 
-LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, LabEx oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
+[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 ## Mais
 
