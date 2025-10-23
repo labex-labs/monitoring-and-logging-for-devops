@@ -17,21 +17,21 @@ Maîtrisez les fondamentaux de la surveillance et de la journalisation dans les 
 
 ## Exercices
 
-|   Index | Nom                                | Difficulté   | Pratique                                                                                                            |
-|---------|------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖  Installation de Prometheus     | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/docker-prometheus-installation-601811'>Commencer le Lab</a>  |
-|       2 | 📖  Configuration Prometheus       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/docker-prometheus-configuration-601818'>Commencer le Lab</a> |
-|       3 | 📖  Configuration de Node Exporter | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/docker-node-exporter-setup-601825'>Commencer le Lab</a>      |
-|       4 | 📖  Bases de PromQL                | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/docker-promql-basics-601827'>Commencer le Lab</a>            |
-|       5 | 📖  Installation de Grafana        | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/docker-grafana-installation-601822'>Commencer le Lab</a>     |
-|       6 | 📖  Tableaux de bord Grafana       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/docker-grafana-dashboards-601821'>Commencer le Lab</a>       |
-|       7 | 📖  Installation de Loki           | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/docker-loki-installation-601824'>Commencer le Lab</a>        |
-|       8 | 📖  Configuration de Loki          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/docker-loki-configuration-601823'>Commencer le Lab</a>       |
-|       9 | 📖  Alertes Prometheus             | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/docker-prometheus-alerts-601826'>Commencer le Lab</a>        |
+|   Index | Nom                                | Difficulté   | Pratique                                                                                                                                                |
+|---------|------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩  Installation de Prometheus     | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/docker-prometheus-installation-601811?course=monitoring-and-logging-for-devops'>Commencer le Lab</a>  |
+|       2 | 🧩  Configuration Prometheus       | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/docker-prometheus-configuration-601818?course=monitoring-and-logging-for-devops'>Commencer le Lab</a> |
+|       3 | 🧩  Configuration de Node Exporter | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/docker-node-exporter-setup-601825?course=monitoring-and-logging-for-devops'>Commencer le Lab</a>      |
+|       4 | 🧩  Bases de PromQL                | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/docker-promql-basics-601827?course=monitoring-and-logging-for-devops'>Commencer le Lab</a>            |
+|       5 | 🧩  Installation de Grafana        | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/docker-grafana-installation-601822?course=monitoring-and-logging-for-devops'>Commencer le Lab</a>     |
+|       6 | 🧩  Tableaux de bord Grafana       | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/docker-grafana-dashboards-601821?course=monitoring-and-logging-for-devops'>Commencer le Lab</a>       |
+|       7 | 🧩  Installation de Loki           | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/docker-loki-installation-601824?course=monitoring-and-logging-for-devops'>Commencer le Lab</a>        |
+|       8 | 🧩  Configuration de Loki          | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/docker-loki-configuration-601823?course=monitoring-and-logging-for-devops'>Commencer le Lab</a>       |
+|       9 | 🧩  Alertes Prometheus             | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/docker-prometheus-alerts-601826?course=monitoring-and-logging-for-devops'>Commencer le Lab</a>        |
 
 ## À propos de LabEx
 
-LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, LabEx offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
+[LabEx](https://labex.io) est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, [LabEx](https://labex.io) offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 ## Plus
 
