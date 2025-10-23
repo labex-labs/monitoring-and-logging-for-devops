@@ -17,21 +17,21 @@ Domina los fundamentos de la monitorización y el registro en entornos DevOps. E
 
 ## Ejercicios
 
-|   Índice | Nombre                              | Dificultad   | Práctica                                                                                                               |
-|----------|-------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖  Instalación de Prometheus       | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-prometheus-installation-601811'>Iniciar Laboratorio</a>  |
-|        2 | 📖  Configuración de Prometheus     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-prometheus-configuration-601818'>Iniciar Laboratorio</a> |
-|        3 | 📖  Configuración de Node Exporter  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-node-exporter-setup-601825'>Iniciar Laboratorio</a>      |
-|        4 | 📖  Conceptos Básicos de PromQL     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-promql-basics-601827'>Iniciar Laboratorio</a>            |
-|        5 | 📖  Instalación de Grafana          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-grafana-installation-601822'>Iniciar Laboratorio</a>     |
-|        6 | 📖  Paneles (Dashboards) de Grafana | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-grafana-dashboards-601821'>Iniciar Laboratorio</a>       |
-|        7 | 📖  Instalación de Loki             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-loki-installation-601824'>Iniciar Laboratorio</a>        |
-|        8 | 📖  Configuración de Loki           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-loki-configuration-601823'>Iniciar Laboratorio</a>       |
-|        9 | 📖  Alertas de Prometheus           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-prometheus-alerts-601826'>Iniciar Laboratorio</a>        |
+|   Índice | Nombre                              | Dificultad   | Práctica                                                                                                                                                   |
+|----------|-------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩  Instalación de Prometheus       | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-prometheus-installation-601811?course=monitoring-and-logging-for-devops'>Iniciar Laboratorio</a>  |
+|        2 | 🧩  Configuración de Prometheus     | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-prometheus-configuration-601818?course=monitoring-and-logging-for-devops'>Iniciar Laboratorio</a> |
+|        3 | 🧩  Configuración de Node Exporter  | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-node-exporter-setup-601825?course=monitoring-and-logging-for-devops'>Iniciar Laboratorio</a>      |
+|        4 | 🧩  Conceptos Básicos de PromQL     | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-promql-basics-601827?course=monitoring-and-logging-for-devops'>Iniciar Laboratorio</a>            |
+|        5 | 🧩  Instalación de Grafana          | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-grafana-installation-601822?course=monitoring-and-logging-for-devops'>Iniciar Laboratorio</a>     |
+|        6 | 🧩  Paneles (Dashboards) de Grafana | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-grafana-dashboards-601821?course=monitoring-and-logging-for-devops'>Iniciar Laboratorio</a>       |
+|        7 | 🧩  Instalación de Loki             | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-loki-installation-601824?course=monitoring-and-logging-for-devops'>Iniciar Laboratorio</a>        |
+|        8 | 🧩  Configuración de Loki           | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-loki-configuration-601823?course=monitoring-and-logging-for-devops'>Iniciar Laboratorio</a>       |
+|        9 | 🧩  Alertas de Prometheus           | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-prometheus-alerts-601826?course=monitoring-and-logging-for-devops'>Iniciar Laboratorio</a>        |
 
 ## Acerca de LabEx
 
-LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
+[LabEx](https://labex.io) es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 ## Más
 
