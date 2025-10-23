@@ -17,21 +17,21 @@ DevOps 환경에서의 모니터링 및 로깅의 핵심을 마스터하세요. 
 
 ## 연습
 
-|   인덱스 | 이름                     | 난이도   | 연습                                                                                                         |
-|----------|--------------------------|----------|--------------------------------------------------------------------------------------------------------------|
-|        1 | 📖  Prometheus 설치      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-prometheus-installation-601811'>실습 시작</a>  |
-|        2 | 📖  Prometheus 구성      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-prometheus-configuration-601818'>실습 시작</a> |
-|        3 | 📖  Node Exporter 설정   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-node-exporter-setup-601825'>실습 시작</a>      |
-|        4 | 📖  PromQL 기본          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-promql-basics-601827'>실습 시작</a>            |
-|        5 | 📖  Grafana 설치         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-grafana-installation-601822'>실습 시작</a>     |
-|        6 | 📖  Grafana 대시보드     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-grafana-dashboards-601821'>실습 시작</a>       |
-|        7 | 📖  Loki 설치            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-loki-installation-601824'>실습 시작</a>        |
-|        8 | 📖  Loki 구성            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-loki-configuration-601823'>실습 시작</a>       |
-|        9 | 📖  Prometheus 알림 설정 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-prometheus-alerts-601826'>실습 시작</a>        |
+|   인덱스 | 이름                     | 난이도   | 연습                                                                                                                                             |
+|----------|--------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩  Prometheus 설치      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/docker-prometheus-installation-601811?course=monitoring-and-logging-for-devops'>실습 시작</a>  |
+|        2 | 🧩  Prometheus 구성      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/docker-prometheus-configuration-601818?course=monitoring-and-logging-for-devops'>실습 시작</a> |
+|        3 | 🧩  Node Exporter 설정   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/docker-node-exporter-setup-601825?course=monitoring-and-logging-for-devops'>실습 시작</a>      |
+|        4 | 🧩  PromQL 기본          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/docker-promql-basics-601827?course=monitoring-and-logging-for-devops'>실습 시작</a>            |
+|        5 | 🧩  Grafana 설치         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/docker-grafana-installation-601822?course=monitoring-and-logging-for-devops'>실습 시작</a>     |
+|        6 | 🧩  Grafana 대시보드     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/docker-grafana-dashboards-601821?course=monitoring-and-logging-for-devops'>실습 시작</a>       |
+|        7 | 🧩  Loki 설치            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/docker-loki-installation-601824?course=monitoring-and-logging-for-devops'>실습 시작</a>        |
+|        8 | 🧩  Loki 구성            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/docker-loki-configuration-601823?course=monitoring-and-logging-for-devops'>실습 시작</a>       |
+|        9 | 🧩  Prometheus 알림 설정 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/docker-prometheus-alerts-601826?course=monitoring-and-logging-for-devops'>실습 시작</a>        |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
